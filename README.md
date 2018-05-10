@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A simple UI but complex FE Todo app using React
 
+To Start: yarn run start
+JSON-SERVER: json-server -p 8080 --watch db.json
+
 Utilities for pipe and partial are in /lib/utils  
 Services for Todo management are in /lib/todoService  
 Helpers for Todo array data management are in /lib/todoHelpers  
